@@ -1,6 +1,5 @@
 # 前言
 
-[README in English](README-en.md)
 
 一个有关昆虫图鉴的网页
 
